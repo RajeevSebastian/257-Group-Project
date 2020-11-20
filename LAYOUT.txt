@@ -1,0 +1,19 @@
+archive
+    ├── maskdata
+    │   └── maskdata
+    │       ├── test
+    │       │   ├── with_mask
+    │       │   └── without_mask
+    │       ├── train
+    │       │   ├── with_mask
+    │       │   └── without_mask
+    │       ├── train_labels.csv
+    │       └── util.py
+    └── masks2.0
+        └── masks
+            ├── test
+            │   ├── 0
+            │   └── 1
+            └── train
+                ├── 0
+                └── 1
