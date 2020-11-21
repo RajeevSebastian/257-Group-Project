@@ -7,12 +7,13 @@ File: "Image-Aug" will create a folder called "AUG-Train", which contains augmen
 
 Structure:
 
-`AUG-Train
+```AUG-Train
 ├── Train-Mask
 |   ├── mask0_0_1155.jpeg
 |   └── mask0_0_2502.jpeg
 └── Train-NoMask
     ├── nomask0_0_1155.jpeg
     ├── nomask0_0_2502.jpeg
-    ├── nomask0_0_3896.jpeg`
+    ├── nomask0_0_3896.jpeg
+```
 
