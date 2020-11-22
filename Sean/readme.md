@@ -10,8 +10,8 @@ Structure:
 ```AUG-Train
 AUG-Train
 ├── Train-Mask
-|   ├── mask0_0_1155.jpeg
-|   └── mask0_0_2502.jpeg
+|   ├── mask0_0_1565.jpeg
+|   └── mask0_0_2902.jpeg
 └── Train-NoMask
     ├── nomask0_0_1155.jpeg
     ├── nomask0_0_2502.jpeg
