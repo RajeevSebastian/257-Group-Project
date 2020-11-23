@@ -18,3 +18,14 @@ AUG-Train
     ├── nomask0_0_3896.jpeg
 ```
 
+
+
+## Swish activation function:
+
+**How** **to use** **Swish** them in deep neural networks?
+
+- **Tanh and sigmoid cause huge vanishing gradient problems**. Hence, they should not be used.
+- **Start with ReLU in your network**. Activation layer is added after the weight layer (something like CNN, RNN, LSTM or linear dense layer) as discussed above in the article. If you think the model has stopped learning, then you can replace it with a LeakyReLU to avoid the Dying ReLU problem. However, the Leaky ReLU will increase the computation time a little bit.
+- **If you also have Batch-Norm layers in your network, that is added before the activation function making the order CNN-Batch Norm-*Act***. Although the order of Batch-Norm and Activation function is a topic of debate and some say that the order doesn’t matter, I use the order mentioned above just to follow the original Batch-Norm paper.
+- Activation functions work best in their default hyperparameters that are used in popular frameworks such as Tensorflow and Pytorch. However, one can fiddle with the negative slope in **LeakyReLU and set it to 0.02** to expedite learning.
+
