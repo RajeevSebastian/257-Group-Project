@@ -18,6 +18,19 @@ AUG-Train
     ├── nomask0_0_3896.jpeg
 ```
 
+Other auxiliary files not on github:
+
+```
+test
+├── with_mask
+│   ├── 0-with-mask.jpg
+│   ├── 1-with-mask.jpg
+└── without_mask
+    ├── 325.jpg
+    ├── 326.jpg
+
+```
+
 
 
 ## Swish activation function:
