@@ -5,6 +5,7 @@
 
 - **"Image-Aug.ipynb"** will create a folder called **"AUG-Train"**, which contains augmented data.
 
+
 Structure:
 
 ```AUG-Train
@@ -31,8 +32,6 @@ test
 
 ```
 
-
-
 ## Swish activation function:
 
 **How** **to use** **Swish** them in deep neural networks?
@@ -42,4 +41,3 @@ test
 - **If you also have Batch-Norm layers in your network, that is added before the activation function making the order CNN-Batch Norm-*Act***. Although the order of Batch-Norm and Activation function is a topic of debate and some say that the order doesn’t matter, I use the order mentioned above just to follow the original Batch-Norm paper.
 - Activation functions work best in their default hyperparameters that are used in popular frameworks such as Tensorflow and Pytorch. However, one can fiddle with the negative slope in **LeakyReLU and set it to 0.02** to expedite learning.
 
- 
