@@ -1,9 +1,9 @@
 ## Notes for Sean's folder
+- **"Simple-Image-Extraction.ipynb"** will get you a 2d array, with the first dimension as the image, 
+  second dimension as the label 1 as with mask, 0 as without mask.
 
-File: "Simple-Image-Extraction.ipynb" will get you a 2d array, with the first dimension as the image, 
-second dimension as the label 1 as with mask, 0 as without mask.
+- **"Image-Aug.ipynb"** will create a folder called **"AUG-Train"**, which contains augmented data.
 
-File: "Image-Aug.ipynb" will create a folder called "AUG-Train", which contains augmented data.
 
 Structure:
 
@@ -18,6 +18,19 @@ AUG-Train
     ├── nomask0_0_3896.jpeg
 ```
 
+
+Other auxiliary files not on github:
+
+```
+test
+├── with_mask
+│   ├── 0-with-mask.jpg
+│   ├── 1-with-mask.jpg
+└── without_mask
+    ├── 325.jpg
+    ├── 326.jpg
+
+```
 
 
 ## Swish activation function:
