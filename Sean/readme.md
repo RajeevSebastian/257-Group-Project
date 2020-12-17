@@ -1,4 +1,5 @@
 ## Notes for Sean's folder
+
 - **"Simple-Image-Extraction.ipynb"** will get you a 2d array, with the first dimension as the image, 
   second dimension as the label 1 as with mask, 0 as without mask.
 
@@ -18,7 +19,6 @@ AUG-Train
     ├── nomask0_0_3896.jpeg
 ```
 
-
 Other auxiliary files not on github:
 
 ```
@@ -31,8 +31,6 @@ test
     ├── 326.jpg
 
 ```
-
-
 ## Swish activation function:
 
 **How** **to use** **Swish** them in deep neural networks?
