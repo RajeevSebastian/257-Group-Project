@@ -31,7 +31,6 @@ test
     ├── 326.jpg
 
 ```
-
 ## Swish activation function:
 
 **How** **to use** **Swish** them in deep neural networks?
