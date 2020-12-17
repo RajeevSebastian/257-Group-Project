@@ -9,8 +9,8 @@ In each folder, every individual's work could be found.
 - Sean did classification using vanilla neural network.
 
 ### Some Notes:
-LAYOUT.txt: this is the layout of the training dataset from with/without mask repo.
-Three data repositories are being used in this project:
-https://www.kaggle.com/niharika41298/withwithout-mask 
-https://www.kaggle.com/andrewmvd/face-mask-detection/download
-https://www.kaggle.com/ashishjangra27/face-mask-12k-images-dataset
+LAYOUT.txt: this is the layout of the training dataset from with/without mask repo.  
+Three data repositories are being used in this project:  
+https://www.kaggle.com/niharika41298/withwithout-mask   
+https://www.kaggle.com/andrewmvd/face-mask-detection/download  
+https://www.kaggle.com/ashishjangra27/face-mask-12k-images-dataset  
