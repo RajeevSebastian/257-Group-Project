@@ -14,3 +14,7 @@ Three data repositories are being used in this project:
 https://www.kaggle.com/niharika41298/withwithout-mask   
 https://www.kaggle.com/andrewmvd/face-mask-detection/download  
 https://www.kaggle.com/ashishjangra27/face-mask-12k-images-dataset  
+
+
+### Project Report:
+https://github.com/RajeevSebastian/257-Group-Project/blob/main/Mask_No-mask%20-%20A%20Face%20Mask%20Detection%20System.docx.pdf
