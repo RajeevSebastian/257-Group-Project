@@ -1,4 +1,4 @@
-# 257-Group-Project
+# MasK Detection in images
 This is the repor for Fall 2020 CMPE 257 instructed by professor Mahima Agumbe Suresh.
 
 
@@ -17,4 +17,4 @@ https://www.kaggle.com/ashishjangra27/face-mask-12k-images-dataset
 
 
 ### Project Report:
-https://github.com/RajeevSebastian/257-Group-Project/blob/main/Mask_No-mask%20-%20A%20Face%20Mask%20Detection%20System.docx.pdf
+[Mask/Nomask]https://github.com/RajeevSebastian/257-Group-Project/blob/main/Mask_No-mask%20-%20A%20Face%20Mask%20Detection%20System.docx.pdf
