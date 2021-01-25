@@ -17,4 +17,7 @@ https://www.kaggle.com/ashishjangra27/face-mask-12k-images-dataset
 
 
 ### Project Report:
-[ Mask/Nomask ] https://github.com/RajeevSebastian/257-Group-Project/blob/main/Mask_No-mask%20-%20A%20Face%20Mask%20Detection%20System.docx.pdf
+<br />
+    <a href="https://github.com/RajeevSebastian/257-Group-Project/blob/main/Mask_No-mask%20-%20A%20Face%20Mask%20Detection%20System.docx.pdf
+"><strong>Explore the docs »</strong></a>
+<br /> 
